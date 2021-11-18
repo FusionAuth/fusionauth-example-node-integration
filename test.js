@@ -1,6 +1,6 @@
 const {FusionAuthClient} = require('fusionauth-node-client');
 const client = new FusionAuthClient(
-  'bf69486b-4733-4470-a592-f1bfce7af580',
+  YOUR API KEY HERE,
   'http://localhost:9011'
 );
 // Retrieve user by email address
