@@ -1,3 +1,5 @@
+**This repo is out of date and is archived. Check out [an updated tutorial on using FusionAuth with Node/Express](https://fusionauth.io/docs/quickstarts/quickstart-javascript-express-web) or [the updated GitHub repository](https://github.com/FusionAuth/fusionauth-quickstart-javascript-express-web).**
+
 # fusionauth-example-node-integration
 
 Welcome to the finished code files for the [Easy Integration of FusionAuth and NodeJS](https://fusionauth.io/blog/2019/02/19/easy-integration-fusionauth-nodejs/)
